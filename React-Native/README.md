@@ -10,16 +10,17 @@ Datman is in need of Front-end to interact with it's Customer(Enduser) where the
    1. Code Clarity.
    2. Reusability.
    3. Errors/Exception Handling.
-   4. Standard Coding practices followed (example- project structure).
-   5. Unit testing.
-   6. CI/CD ( **optional** - But great to have ).
+   4. Standard Coding practices for Project structure.
+   5. Strongly looking that how you design you state mangment using redux.
+   5. Unit testing. (**Great to have**)
+   6. CI/CD ( **optional** ).
    7. Documentation ( **optional** ).
    
 - All stories to be completed with an appropriate level of testing.
 - Feel free to use whatever testing, mocking or stubbing frameworks you prefer, along with any other packages you like.
 - Your code should be of production quality.
 - Provide any documentation / planning you carried out.
-- **You are free to use your own inovation below design is just for reference**
+- **You are free to use your own inovation** below design is just for the reference.
 
 ![jpg-reactnai](https://user-images.githubusercontent.com/52954968/66732334-160e4c00-ee79-11e9-9444-71b105fd02f7.jpg)
 
@@ -32,10 +33,9 @@ So that **I can place an order**
 
 #### Acceptance criteria
 * Create two tabs with title **Menu** and **Checkout**
-* Get the menu zamato Api using below curl req or visit Zamato api for more details -- https://developers.zomato.com/documentation.
-* curl -X GET --header "Accept: application/json" --header "user_key: <UNIQUE-API-KEY>" "https://developers.zomato.com/api/v2.1/dailymenu?res_id=16507624"
+* Get the menu zamato Api using below curl req or visit Zamato api for more details -- https://developers.zomato.com/documentation
+* ``curl -X GET --header "Accept: application/json" --header "user_key: <UNIQUE-API-KEY>" "https://developers.zomato.com/api/v2.1/dailymenu?res_id=16507624"``
 * Click on + sign to add the items in checkout.
-* Make a use of redux for state management. 
 
 
 ---
