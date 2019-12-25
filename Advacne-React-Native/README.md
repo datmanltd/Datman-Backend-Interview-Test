@@ -35,7 +35,7 @@ myPortal is in need of Front-end to interact with it's Customer(Enduser). Create
 As a **consumer**
 I want to **login to the portal**
 So that **I can view dashboard**
-#### Acceptance criteria
+##### Acceptance criteria
 * Login screen with two input email and password.
 * remember me and login button.
 
@@ -44,7 +44,7 @@ As a **consumer**
 I want to view **all the list of my paymnets**
 and a side bar where I have a list of menu *Dashboard, withdrawals, upload docs, etc.*
 
-#### Acceptance criteria
+##### Acceptance criteria
 * By default dashboard will be selected and display the list from the payment api.
 * similarly on select withdrawals *withdrawal api* should be called.
 
@@ -53,7 +53,7 @@ As a **Customer**
 I want to upload my all bank documents
 where myPortal agent can review.
 
-####  Acceptance criteria
+#####  Acceptance criteria
 * on a side bar there should be the menu added called 'Bank Updates'
 * It shoudld have a form to upload the documents. 
 
@@ -61,7 +61,7 @@ where myPortal agent can review.
 As a **consumer**
 I want to logout from myPortal application
 
-#### Acceptance criteria
+##### Acceptance criteria
 * on a side bar there should be the menu added called 'Logout'
 * once clicked it should delete all stored data in redux. 
 
