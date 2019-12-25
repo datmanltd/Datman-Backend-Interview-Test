@@ -57,7 +57,7 @@ where myPortal agent can review.
 * on a side bar there should be the menu added called 'Bank Updates'
 * It shoudld have a form to upload the documents. 
 
-## Story 4
+#### Story 4
 As a **consumer**
 I want to logout from myPortal application
 
