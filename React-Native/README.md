@@ -12,9 +12,9 @@ Datman is in need of Front-end to interact with it's Customer(Enduser) where the
    3. Errors/Exception Handling.
    4. Standard Coding practices for Project structure.
    5. Strongly looking that how you design you state mangment using redux.
-   5. Unit testing. (**Great to have**)
-   6. CI/CD ( **optional** ).
-   7. Documentation ( **optional** ).
+   6. Unit testing. (**Great to have**)
+   7. CI/CD ( **optional** ).
+   8. Documentation ( **optional** ).
    
 - All stories to be completed with an appropriate level of testing.
 - Feel free to use whatever testing, mocking or stubbing frameworks you prefer, along with any other packages you like.
