@@ -41,7 +41,7 @@ So that **I can view dashboard**
 
 #### Story 2 - On successfull login
 As a **consumer**
-I want to view **all the list of my paymnets**
+I want to view **all the list of my payments**
 and a side bar where I have a list of menu *Dashboard, withdrawals, upload docs, etc.*
 
 ##### Acceptance criteria
@@ -79,6 +79,6 @@ Please answer the following questions in a markdown file called `Answers.md`.
 * Please describe yourself using either XML or JSON.
 
 
-* Once you are done zip your folder and send us your beautiful work to dev@dataman.je and cc to sandeep@datman.je.
+* Once you are done zip your folder and send us your beautiful work to dev@datman.je and cc to sandeep@datman.je.
 Thanks for your time, we look forward to hearing from you!
 - Datman Dev Team
